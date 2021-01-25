@@ -54,6 +54,7 @@ button {
     } 
     
     button {
+        display: flex;
     position: absolute;
     margin-top: 4em;
     right: 0;

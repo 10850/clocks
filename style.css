@@ -115,6 +115,7 @@ button {
 
 @media only screen and (max-width: 600px) {
    button {
+       display: flex;
     position: absolute;
     margin-top: 4em;
     right: 0;
